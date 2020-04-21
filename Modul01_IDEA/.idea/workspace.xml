@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc94ebdb-6b5b-4583-abef-25cf57ee9ee9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ar83peIu0GSmqflLAvuo3Rj5T0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc94ebdb-6b5b-4583-abef-25cf57ee9ee9" name="Default Changelist" comment="" />
+      <created>1587482155735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587482155735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="247" key="#Notifications" timestamp="1587484921427">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="565" y="247" key="#Notifications/0.0.1360.768@0.0.1360.768" timestamp="1587484921427" />
+    <state x="459" y="125" key="FileChooserDialogImpl" timestamp="1587485067495">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="459" y="125" key="FileChooserDialogImpl/0.0.1360.768@0.0.1360.768" timestamp="1587485067495" />
+    <state x="547" y="282" key="Github.ShareDialog" timestamp="1587483927818">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="547" y="282" key="Github.ShareDialog/0.0.1360.768@0.0.1360.768" timestamp="1587483927818" />
+    <state x="62" y="4" key="new project wizard" timestamp="1587485068948">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="62" y="4" key="new project wizard/0.0.1360.768@0.0.1360.768" timestamp="1587485068948" />
+  </component>
+</project>
